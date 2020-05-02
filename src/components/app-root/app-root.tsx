@@ -21,6 +21,7 @@ export class AppRoot {
             </stencil-route-switch>
           </stencil-router>
         </main>
+        <footer>Copyright polinom.io 2019-2020</footer>
       </div>
     );
   }

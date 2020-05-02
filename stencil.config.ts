@@ -12,5 +12,11 @@ export const config: Config = {
       serviceWorker: null,
       baseUrl: "https://landing.polinom.io/"
     }
+  ],
+  copy: [
+    {
+      src: "**/*.i18n.*.json",
+      dest: "i18n"
+    }
   ]
 };

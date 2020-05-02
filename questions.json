@@ -1,0 +1,42 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Quién es el padre de Buster en Arrested Development?",
+      "alternatives": [
+        {
+          "text": "Micheal",
+          "id": 1
+        },
+        {
+          "text": "george Senior",
+          "id": 2
+        },
+        {
+          "text": "Oscar",
+          "id": 3
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "text": "Quién es el padre de George Micheal en Arrested Development?",
+      "alternatives": [
+        {
+          "text": "Micheal",
+          "id": 1
+        },
+        {
+          "text": "george Senior",
+          "id": 2
+        },
+        {
+          "text": "Oscar",
+          "id": 3
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}
